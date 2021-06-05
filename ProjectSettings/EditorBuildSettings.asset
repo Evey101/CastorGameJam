@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BedroomScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Flower Scene.unity
+    guid: c59223d606d3faa41bba8ce76b99d168
+  - enabled: 0
+    path: Assets/Scenes/Video Game Scene.unity
+    guid: de591cf9e0948e24a94f2a085b97c138
+  - enabled: 1
+    path: Assets/Scenes/AScene.unity
+    guid: 7421dec46bf8b14438fbb3a4ae535ba8
+  - enabled: 1
+    path: Assets/Scenes/CBScene.unity
+    guid: 465adbc831073ca4da69bebcad6f2589
+  - enabled: 1
+    path: Assets/Scenes/IScene.unity
+    guid: c4ebfac4f421e3448ac488931d9cd056
+  - enabled: 1
+    path: Assets/Scenes/VScene.unity
+    guid: 9aa5ec96af5cd4a4a93a41c0cc00da21
+  m_configObjects: {}
